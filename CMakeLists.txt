@@ -3,4 +3,4 @@ project(FormulaConverter)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(FormulaConverter main.cpp Converter.cpp Converter.h TruthColumn.cpp TruthColumn.h)
+add_executable(FormulaConverter main.cpp Converter.cpp Converter.h TruthColumn.cpp TruthColumn.h Formula.cpp Formula.h)
